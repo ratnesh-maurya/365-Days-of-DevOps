@@ -33,6 +33,4 @@ This journey is a dialogue, not a monologue. Engage with the community:
 
 Join the conversation. Share your thoughts. Together, we'll sculpt the future of seamless development and operations.
 
-![DevOps Logo](link-to-devops-logo.svg)
-![GitHub Stars](link-to-stars-badge.svg)
-![License](link-to-license-badge.svg)
+
