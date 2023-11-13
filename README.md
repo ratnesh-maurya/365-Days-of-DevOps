@@ -26,8 +26,8 @@ This journey is not a solo expedition. Contribute, critique, and co-create! Here
 
 This journey is a dialogue, not a monologue. Engage with the community:
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/ratnesh_maurya_)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/ratnesh-maurya/)
+- Twitter: [@ratnesh_maurys_](https://twitter.com/ratnesh_maurya_)
+- LinkedIn: [ratnesh-maurya](https://www.linkedin.com/in/ratnesh-maurya/)
 
 ## 🚀 Let's Shape the Future of DevOps
 
