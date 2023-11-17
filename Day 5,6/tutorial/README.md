@@ -1,3 +1,6 @@
+# Access here 
+[Nanoc website deployl link](https://bit.ly/3sDtxXH)
+  
 # Nanoc Website Deployment to S3
 
 This repository contains the code and configuration for deploying a Nanoc website to an AWS S3 bucket using GitHub Actions. The deployment is triggered on each push to the `main` branch.
@@ -188,5 +191,3 @@ jobs:
 ## Deployment Verification
 
 Once you push the changes to the main branch, the GitHub Actions workflow will be triggered, building the Nanoc website and deploying it to the specified S3 bucket. You can verify the deployment by visiting the S3 bucket URL. The website content should be publicly accessible.
-
-
