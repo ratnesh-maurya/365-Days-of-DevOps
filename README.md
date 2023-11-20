@@ -23,7 +23,7 @@ This journey is not a solo expedition. Contribute, critique, and co-create! Here
 
 This journey is a dialogue, not a monologue. Engage with the community:
 
-- Twitter: [@ratnesh_maurys_](https://twitter.com/ratnesh_maurya_)
+- Twitter: [@ratnesh_maurya_](https://twitter.com/ratnesh_maurya_)
 - LinkedIn: [ratnesh-maurya](https://www.linkedin.com/in/ratnesh-maurya/)
 
 
