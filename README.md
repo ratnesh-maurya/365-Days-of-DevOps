@@ -26,5 +26,8 @@ This journey is a dialogue, not a monologue. Engage with the community:
 - Twitter: [@ratnesh_maurya_](https://twitter.com/ratnesh_maurya_)
 - LinkedIn: [ratnesh-maurya](https://www.linkedin.com/in/ratnesh-maurya/)
 
+  
+![coding](https://github.com/ratnesh-maurya/365-Days-of-DevOps/assets/85143283/4fcfb13e-90cb-4c00-b771-6e02336506a1)
+
 
 
