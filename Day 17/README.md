@@ -22,6 +22,6 @@ Mastering these essential `kubectl` commands forms the foundation for effective 
 
 In addition to these commands, there are many other valuable `kubectl` commands available. As you continue your DevOps code learning journey, be sure to explore these additional commands and expand your skillset.
 
-![GitHub Profile Photo](URL_TO_YOUR_GITHUB_PROFILE_PHOTO)
+<img src="https://avatars.githubusercontent.com/ratnesh-maurya" alt="GitHub Profile Photo" width="100" height="100">
 
 #DevOpsCodeLearning #Kubernetes #PodManagement
